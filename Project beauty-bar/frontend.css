@@ -1,0 +1,31 @@
+.navbar-header h1 {
+    color: white;
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+    font-family: 'Montserrat';
+    font-size: 32px;
+    font-weight: 2000;
+}
+
+.navbar-header h1 span {
+    font-weight: 800;
+}
+
+span {
+    font-family: 'Montserrat';
+}
+
+ul li a {
+    margin-top: 7px;
+    left: 75px;
+    color: powderblue;
+}
+
+h4 {
+    font-family: 'Montserra';
+}
+
+.h1 {
+    margin-right: 50px;
+}
